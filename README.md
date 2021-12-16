@@ -1,16 +1,48 @@
-### Hi there 👋
+# Amanjghaderi
+### Hello there  👋  I'm Amanj
+ <!--![](https://visitor-badge.laobi.icu/badge?page_id=NimaAB.NimaAB)-->
+<!--[![Github](https://img.shields.io/github/followers/NimaAB?label=Follow&style=social)](https://github.com/NimaAB)-->
 
-<!--
-**amanjiw/amanjiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently learning NextJs
+- 📫 How to reach me: ghaderi.amanj@gmail.com
+<!-- - 💬 Ask me about "Nothing actually".--> 
+
+
+**"Once you stop learning, you start dying"** by Albert Enistein
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=amanjiw)
+
+
+### Find me on
+[<img align="left" alt="Nima Abdollahi | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br>
+
+### Language and Tools
+<p align="left">
+
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="45px" style="margin:10px">
+ 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="Javascript" height="45px" style="margin:10px">
+
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" height="45px" style="margin:10px">
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" height="45px" style="margin:10px">
+
+ <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github" height="45px" style="margin:10px">
+ <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="Git" height="45px" style="margin:10px">
+</p>
+
+
+
+
+
+<!--![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amanjiw&repo=AmanjGhaderi)--->
+
+
+
+<!--Links-->
+[linkedin]: https://www.linkedin.com/in/amanj-ghaderi-b825551b9/ 
