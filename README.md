@@ -13,8 +13,10 @@
 
 **"Once you stop learning, you start dying"** by Albert Enistein
 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=amanjiw)
+<a href="https://github.com/natterstefan/natterstefan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natterstefan&hide=java,html&title_color=000000&text_color=000000" />
+</a>
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=amanjiw) -->
 
 
 ### Find me on
@@ -46,6 +48,4 @@
 
 <!--Links-->
 [linkedin]: https://www.linkedin.com/in/amanj-ghaderi-b825551b9/ 
-<a href="https://github.com/natterstefan/natterstefan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natterstefan&hide=java,html&title_color=000000&text_color=000000" />
-</a>
+
