@@ -1,5 +1,5 @@
-# Amanjghaderi
-### Hello there  👋  I'm Amanj
+# Hello there  👋  I'm Amanj
+
  <!--![](https://visitor-badge.laobi.icu/badge?page_id=NimaAB.NimaAB)-->
 <!--[![Github](https://img.shields.io/github/followers/NimaAB?label=Follow&style=social)](https://github.com/NimaAB)-->
 
