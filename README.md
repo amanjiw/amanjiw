@@ -11,7 +11,7 @@
 <!-- - 💬 Ask me about "Nothing actually".--> 
 
 
-**"Once you stop learning, you start dying"** by Albert Enistein
+###**"Once you stop learning, you start dying"** by Albert Enistein
 
 <a href="https://github.com/natterstefan/natterstefan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natterstefan&hide=java,html&title_color=000000&text_color=000000" />
