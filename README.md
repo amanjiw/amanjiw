@@ -31,6 +31,8 @@
 ### Find me on
 [<img align="left" alt="Nima Abdollahi | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
+<br>
+<br>
 
 ## Language and Tools
 <p align="left">
