@@ -40,8 +40,8 @@
 
 
 
-<!--![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amanjiw&repo=AmanjGhaderi)--->
-
+<!--![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amanjiw&repo=comfyStore)--->
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=amanjiw&repo=comfyStore)
 
 
 <!--Links-->
