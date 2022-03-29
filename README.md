@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently learning NextJs
+- 🔭 I’m currently learning NextJs & NodeJs
 - 📫 How to reach me: ghaderi.amanj@gmail.com
 <!-- - 💬 Ask me about "Nothing actually".--> 
 
