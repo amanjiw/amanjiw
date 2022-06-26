@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently learning NextJs & NodeJs
+- 🔭 I’m currently learning NextJs & NodeJs & TypeScript :) 
 - 📫 How to reach me: ghaderi.amanj@gmail.com
 <!-- - 💬 Ask me about "Nothing actually".--> 
 
@@ -29,7 +29,7 @@
 
 
 ### Find me on
-[<img align="left" alt="Nima Abdollahi | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Amanj ghaderi | LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br>
 <br>
 
@@ -41,6 +41,10 @@
 
  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="45px" style="margin:10px">
+ 
+ 
+ <img src="[....................](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png)" alt="Javascript" height="45px" style="margin:10px">
+ 
  
  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="Javascript" height="45px" style="margin:10px">
  
