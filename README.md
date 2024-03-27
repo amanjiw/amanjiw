@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently learning NodeJs  :) 
+- 🔭 I’m currently improving my frontend skills  :) 
 - 📫 How to reach me: ghaderi.amanj@gmail.com
 <!-- - 💬 Ask me about "Nothing actually".--> 
 
